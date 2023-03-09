@@ -5,7 +5,7 @@
 ## Requirements
 
 The CLI for the VCS used to manage the source code must be installed on your system.
-That's usually going to be `git` but it could be `bazaar`, `hg`, `svn`, or `fossil`.
+That's usually going to be `git` but it could be `bzr`, `hg`, `svn`, or `fossil`.
 
 That's it, doesn't even need Go.
 
