@@ -2,6 +2,13 @@
 
 `ggs` is a tool to download the source of a Go module.
 
+## Requirements
+
+The CLI for the VCS used to manage the source code must be installed on your system.
+That's usually going to be `git` but it could be `bazaar`, `hg`, `svn`, or `fossil`.
+
+That's it, doesn't even need Go.
+
 ## Installation
 
 `go install github.com/ebauman/ggs`
